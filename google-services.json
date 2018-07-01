@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "714398977805",
+    "firebase_url": "https://newproject-c8b4a.firebaseio.com",
+    "project_id": "newproject-c8b4a",
+    "storage_bucket": "newproject-c8b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714398977805:android:92a75799ff4a5495",
+        "android_client_info": {
+          "package_name": "com.bilalfawaz.mynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714398977805-9094bkvhmbve0pj66ge372n4ugij4ttf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEbP5NvVMfzcP-BqBkGPmw3MpnyX2j74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+cordova-lib
+https://ionicframework.com/docs/native/onesignal/
+https://onesignal.com/apps/3a315760-1e5d-4301-ac23-2d13ac4b6697/campaigns
+https://cordova-plugin-fcm.appspot.com/
+https://www.youtube.com/watch?v=c4vlMNGCg4U&index=98&list=PLMYF6NkLrdN9yeclmM6hg5FoRkvOkswos
+https://www.youtube.com/watch?v=RPbeTFeDE0k&list=PLMYF6NkLrdN-bAB-L2YXRX8toFNa4EyAO&index=3
+https://console.firebase.google.com/project/newproject-c8b4a/settings/cloudmessaging/android:com.bilalfawaz.mynotify

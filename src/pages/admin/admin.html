@@ -1,0 +1,35 @@
+
+<ion-header>
+  
+  <ion-navbar >
+    <ion-title>Admin</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+  <img src="assets/imgs/kid.jpg">
+  <br><br>
+  <div>
+    <button ion-button block color="secondary" round (click) ="add()"><B> اضافة بيانات </B></button>
+    <br>
+    <button ion-button block color="secondary" round (click) ="show()"><B>عرض </B> </button>
+    <br>
+    <button ion-button block color="secondary" round (click) ="signOut()"><B>خروج </B> </button>
+    <br>
+    <button ion-button block color="secondary" round (click) ="SignUp()"><B>تسجيل جديد </B> </button>
+    <br>
+    <button ion-button block color="secondary" round (click) ="notice()"><B>notice </B> </button>
+  </div>
+<!-- <p>handleNotificationReceived</p> -->
+<h1>
+  {{titlefirebase}}
+</h1>
+<!-- <p>handleNotificationReceived</p> -->
+<h1>
+  {{bodyfirebase}}
+</h1>
+
+<!-- <h1>{mykids1}}</h1> -->
+<!-- <h1>{{mykids2}}</h1> -->
+</ion-content>

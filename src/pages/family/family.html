@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+   <h1>قسم العائلة  </h1>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+    <ion-card>
+      <img src="https://www.shareicon.net/data/2016/06/25/786527_people_512x512.png">
+        <ion-card-content>
+          <ion-card-title>
+              {{this.myKid.FirstName}}
+              {{this.myKid.LastName}}
+            </ion-card-title>
+          <p>
+              {{this.myKid.Phone}}
+              <br>
+              {{this.myKid.Address}}
+              <br>
+              {{this.myKid.Stage}}
+              <br>
+              {{this.myKid.Email}}
+              <br>
+              {{this.myKid.Password}}
+          </p>
+        </ion-card-content>
+      </ion-card>
+</ion-content>
